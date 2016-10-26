@@ -5,15 +5,16 @@ function exe_cmd() {
     eval $1
 }
 
-if [ $# -lt 1 ]; then
-    echo "Usage: sh $0 [ production | master ]"
-    exit
-fi
+# if [ $# -lt 1 ]; then
+#     echo "Usage: sh $0 [ production | master ]"
+#     exit
+# fi
 
-branch=$1
-if [ -z "$branch" ] || [ "$branch" != "master" ]; then
-    branch='production'
-fi
+# branch=$1
+# if [ -z "$branch" ] || [ "$branch" != "master" ]; then
+#     branch='production'
+# fi
+branch='production'
 
 exe_cmd "JEKYLL_ENV=production jekyll build"
 if [ ! -d '_site' ];then
@@ -31,4 +32,6 @@ else
     exe_cmd "cp -r _site/* ."
     exe_cmd "rm -rf _site/"
     exe_cmd "touch .nojekyll"
+    exe_cmd "git add ."
+    exe_cmd "git push origin production"
 fi
