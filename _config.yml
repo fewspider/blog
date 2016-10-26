@@ -31,7 +31,7 @@ copyright: © Copyright 2013-2016
 markdown: kramdown
 theme: fff-theme
 
-exclude: ["Gemfile", "Gemfile.lock"]
+exclude: ["Gemfile", "Gemfile.lock", "publish-gh-pages.sh"]
 
 minify_html: ture
 
