@@ -33,5 +33,6 @@ else
     exe_cmd "rm -rf _site/"
     exe_cmd "touch .nojekyll"
     exe_cmd "git add ."
+    exe_cmd "git commit -m 'update'"
     exe_cmd "git push origin production"
 fi
