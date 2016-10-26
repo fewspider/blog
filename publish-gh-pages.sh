@@ -15,7 +15,7 @@ if [ -z "$branch" ] || [ "$branch" != "master" ]; then
     branch='production'
 fi
 
-exe_cmd "jekyll build"
+exe_cmd "JEKYLL_ENV=production jekyll build"
 if [ ! -d '_site' ];then
     echo "not content to be published"
     exit
