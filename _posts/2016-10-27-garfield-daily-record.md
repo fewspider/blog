@@ -34,8 +34,8 @@ categories: cat
 
 刚好群里某位 四川成都 的朋友，家里生了四只小加菲，其实有一只黑黑哒，就是下面👇这只，越看越喜欢哈哈😄，就买了。
 
-<a class="fancybox" rel="gallery" href="/images/source/garfield-daily-record/IMG_2164.JPG" title="小扁脸">
-	<img src="/images/compress/garfield-daily-record/IMG_2164.JPG" alt="" class="width-50" />
+<a class="fancybox" rel="gallery" href="/images/source/garfield-daily-record/IMG_2164.jpg" title="小扁脸">
+	<img src="/images/compress/garfield-daily-record/IMG_2164.jpg" alt="" class="width-50" />
 </a>
 
 ### 怎么寄过来的
@@ -44,23 +44,23 @@ categories: cat
 
 这是快递单子，里面注意事项写着 “机场自提，死亡自负”，好担心喵🐱挂了QAQ，狠不得早点到，才安心。
 
-<a class="fancybox" rel="gallery" href="/images/source/garfield-daily-record/IMG_2169.JPG" title="快递单">
-	<img src="/images/compress/garfield-daily-record/IMG_2169.JPG" alt="" class="width-50" />
+<a class="fancybox" rel="gallery" href="/images/source/garfield-daily-record/IMG_2169.jpg" title="快递单">
+	<img src="/images/compress/garfield-daily-record/IMG_2169.jpg" alt="" class="width-50" />
 </a>
 
 下面👇的图片是小喵🐱要寄过来的样子，好可怜的小眼神QAQ。
 
 <div class="image-group">
 	<div class="image-item width-48">
-		<a class="fancybox" rel="gallery" href="/images/source/garfield-daily-record/IMG_2166.JPG" title="小扁脸">
-			<img src="/images/compress/garfield-daily-record/IMG_2166.JPG" alt="" class="width-100" />
+		<a class="fancybox" rel="gallery" href="/images/source/garfield-daily-record/IMG_2166.jpg" title="小扁脸">
+			<img src="/images/compress/garfield-daily-record/IMG_2166.jpg" alt="" class="width-100" />
 		</a>
 	</div>
 	<div class="image-item width-4">
 	</div>
 	<div class="image-item width-48">
-		<a class="fancybox" rel="gallery" href="/images/source/garfield-daily-record/IMG_2167.JPG" title="小扁脸">
-			<img src="/images/compress/garfield-daily-record/IMG_2167.JPG" alt="" class="width-100" />
+		<a class="fancybox" rel="gallery" href="/images/source/garfield-daily-record/IMG_2167.jpg" title="小扁脸">
+			<img src="/images/compress/garfield-daily-record/IMG_2167.jpg" alt="" class="width-100" />
 		</a>
 	</div>
 </div>
@@ -129,16 +129,16 @@ T3那边的航空✈️货运中心，取件的服务窗那边，有写了一个
 真的好担心喵🐱会不会挂了QAQ，从跑去T4到现在，已经过去好长时间了。等了一会，终于看到装喵🐱的那个箱子了，一直在喵喵喵地叫，好可怜。
 不过总算是接到了，叫车🚗回去给它安顿下。
 
-<a class="fancybox" rel="gallery" href="/images/source/garfield-daily-record/IMG_2179.JPG" title="箱子">
-	<img src="/images/compress/garfield-daily-record/IMG_2179.JPG" alt="" class="width-50" />
+<a class="fancybox" rel="gallery" href="/images/source/garfield-daily-record/IMG_2179.jpg" title="箱子">
+	<img src="/images/compress/garfield-daily-record/IMG_2179.jpg" alt="" class="width-50" />
 </a>
 
 ### 安顿喵🐱
 
 那天下午，喵还在路上的时候，就跑去宠物店，买了些喵🐱的必备品，猫砂跟猫粮好重QAQ。
 
-<a class="fancybox" rel="gallery" href="/images/source/garfield-daily-record/IMG_2175.JPG" title="喵🐱的必备品">
-	<img src="/images/compress/garfield-daily-record/IMG_2175.JPG" alt="" class="width-50" />
+<a class="fancybox" rel="gallery" href="/images/source/garfield-daily-record/IMG_2175.jpg" title="喵🐱的必备品">
+	<img src="/images/compress/garfield-daily-record/IMG_2175.jpg" alt="" class="width-50" />
 </a>
 
 大概就是这些东西
@@ -161,8 +161,8 @@ T3那边的航空✈️货运中心，取件的服务窗那边，有写了一个
 猫粮倒是没吃，闻了一下，就没放太多。后来有吃了一点猫粮好开心哈哈😄，我的房间有点乱，刚好室友搬走了，就先把喵🐱挪到那个房间。
 吃饱喝足后，就一直在舔我的手指。我也不知道为啥，手有辣么好吃😋么，好像小盆友也很喜欢吃自己的手。
 
-<a class="fancybox" rel="gallery" href="/images/source/garfield-daily-record/IMG_2187.JPG" title="舔舔">
-	<img src="/images/compress/garfield-daily-record/IMG_2187.JPG" alt="" class="width-50" />
+<a class="fancybox" rel="gallery" href="/images/source/garfield-daily-record/IMG_2187.jpg" title="舔舔">
+	<img src="/images/compress/garfield-daily-record/IMG_2187.jpg" alt="" class="width-50" />
 </a>
 
 第一天先这样安顿下来了。
@@ -205,34 +205,34 @@ T3那边的航空✈️货运中心，取件的服务窗那边，有写了一个
 
 每次我出门，它都会自己蹦到那个窗户那边，睡觉、发呆，或者舔自己的手。等我回来，再跳下来，找我玩。
 
-<a class="fancybox" rel="gallery" href="/images/source/garfield-daily-record/IMG_2231.JPG" title="睡觉">
-	<img src="/images/compress/garfield-daily-record/IMG_2231.JPG" alt="" class="width-50" />
+<a class="fancybox" rel="gallery" href="/images/source/garfield-daily-record/IMG_2231.jpg" title="睡觉">
+	<img src="/images/compress/garfield-daily-record/IMG_2231.jpg" alt="" class="width-50" />
 </a>
 
 ### 买喵🐱附送表情包
 
 #### 好凶哦QAQ
 
-<a class="fancybox" rel="gallery" href="/images/source/garfield-daily-record/IMG_2248.JPG" title="好凶哦QAQ">
-	<img src="/images/compress/garfield-daily-record/IMG_2248.JPG" alt="" class="width-50" />
+<a class="fancybox" rel="gallery" href="/images/source/garfield-daily-record/IMG_2248.jpg" title="好凶哦QAQ">
+	<img src="/images/compress/garfield-daily-record/IMG_2248.jpg" alt="" class="width-50" />
 </a>
 
 #### 装可怜ಥ_ಥ
 
-<a class="fancybox" rel="gallery" href="/images/source/garfield-daily-record/IMG_2311.JPG" title="装可怜ಥ_ಥ">
-	<img src="/images/compress/garfield-daily-record/IMG_2311.JPG" alt="" class="width-50" />
+<a class="fancybox" rel="gallery" href="/images/source/garfield-daily-record/IMG_2311.jpg" title="装可怜ಥ_ಥ">
+	<img src="/images/compress/garfield-daily-record/IMG_2311.jpg" alt="" class="width-50" />
 </a>
 
 #### 装酷✨，假装是batman哈哈😄
 
-<a class="fancybox" rel="gallery" href="/images/source/garfield-daily-record/IMG_2325.JPG" title="装酷✨">
-	<img src="/images/compress/garfield-daily-record/IMG_2325.JPG" alt="" class="width-50" />
+<a class="fancybox" rel="gallery" href="/images/source/garfield-daily-record/IMG_2325.jpg" title="装酷✨">
+	<img src="/images/compress/garfield-daily-record/IMG_2325.jpg" alt="" class="width-50" />
 </a>
 
 #### 卖萌・∀・
 
-<a class="fancybox" rel="gallery" href="/images/source/garfield-daily-record/IMG_2314.JPG" title="卖萌・∀・">
-	<img src="/images/compress/garfield-daily-record/IMG_2314.JPG" alt="" class="width-50" />
+<a class="fancybox" rel="gallery" href="/images/source/garfield-daily-record/IMG_2314.jpg" title="卖萌・∀・">
+	<img src="/images/compress/garfield-daily-record/IMG_2314.jpg" alt="" class="width-50" />
 </a>
 
 ### 养喵🐱后的改变
@@ -241,8 +241,8 @@ T3那边的航空✈️货运中心，取件的服务窗那边，有写了一个
 
 不是它没东西吃了，喂了猫粮一样过来吵你，这点才是最可恶的。喵🐱会一直咕噜咕哩地叫，打呼噜吧，然后在你耳朵👂旁边，就睡不着了(╯°Д°）╯︵ /(.□ . \)
 
-<a class="fancybox" rel="gallery" href="/images/source/garfield-daily-record/IMG_2268.JPG" title="被喵🐱踩醒">
-	<img src="/images/compress/garfield-daily-record/IMG_2268.JPG" alt="" class="width-50" />
+<a class="fancybox" rel="gallery" href="/images/source/garfield-daily-record/IMG_2268.jpg" title="被喵🐱踩醒">
+	<img src="/images/compress/garfield-daily-record/IMG_2268.jpg" alt="" class="width-50" />
 </a>
 
 #### 洗澡🛀的时候，喵🐱总会在门🚪那边看着我
