@@ -1,4 +1,5 @@
 #!/bin/bash
+# compress jpg
 
 sourceDir=images/source
 compressDir=images/compress

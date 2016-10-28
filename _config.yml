@@ -18,7 +18,7 @@ email: fewspider@gmail.com
 description: > # funny life & code
 baseurl: "" # the subpath of your site, e.g. /blog
 # url: "http://localhost:4000" # the base hostname & protocol for your site
-# url: "http://192.168.2.110:8888"
+# url: "http://192.168.2.105:8888"
 url: "https://blog.fewspider.com"
 github_username:       fewspider
 twitter_username:      fewspider
