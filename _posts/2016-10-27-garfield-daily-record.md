@@ -259,7 +259,7 @@ T3那边的航空✈️货运中心，取件的服务窗那边，有写了一个
 
 #### 好担心😓 鱼🐟 会被干掉
 
-家里最高的地方，除了衣柜，就是冰箱了，没想到还是跳上去了。有一些要去拿鱼的饲料，一转身，就看到了这吓人😱😱😱 的一幕。
+家里最高的地方，除了衣柜，就是冰箱了，没想到还是跳上去了。有一次要去拿鱼的饲料，一转身，就看到了这吓人😱😱😱 的一幕。
 
 <a class="fancybox" rel="gallery" href="/images/source/garfield-daily-record/IMG_66666.png" title="🐟">
 	<img src="/images/source/garfield-daily-record/IMG_66666.png" alt="" class="width-50" />
